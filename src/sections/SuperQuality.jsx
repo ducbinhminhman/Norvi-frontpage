@@ -9,17 +9,18 @@ const SuperQuality = () => {
     >
       <div className='flex flex-1 flex-col'>
         <h2 className='font-palanquin capitalize text-4xl lg:max-w-lg font-bold'>
-          We Provide You
-          <span className='text-coral-red'> Super </span>
-          <span className='text-coral-red'>Quality </span> Shoes
+        NorVi Express Mang
+          <span className='text-coral-red'> Chất Lượng </span>
+          <span className='text-coral-red'>Dầu Cá Na Uy </span> Đến 
+          Từng Gia Đình Việt
         </h2>
         <p className='mt-4 lg:max-w-lg info-text'>
-          Ensuring premium comfort and style, our meticulously crafted footwear
-          is designed to elevate your experience, providing you with unmatched
-          quality, innovation, and a touch of elegance.
+        Chào mừng bạn đến với NorVi Express, nơi mang đến những sản phẩm dầu cá chất lượng hàng đầu từ Na Uy 
+        đến mọi gia đình Việt Nam. Chúng tôi tự hào là cầu nối đưa những dưỡng chất quý giá từ biển cả Bắc Âu vào từng bữa ăn của bạn, 
+        với mong muốn giúp mọi người dân Việt Nam nâng cao sức khỏe và sống khỏe mạnh hơn mỗi ngày.
         </p>
         <p className='mt-6 lg:max-w-lg info-text'>
-          Our dedication to detail and excellence ensures your satisfaction
+        Liên hệ với chúng tôi qua tin nhắn hoặc số điện thoại Zalo: 0933664968 để đặt hàng và nhận thêm thông tin chi tiết.
         </p>
         <div className='mt-11'>
           <Button label='View details' />

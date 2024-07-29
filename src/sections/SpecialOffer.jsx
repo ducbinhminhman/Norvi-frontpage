@@ -20,14 +20,10 @@ const SpecialOffer = () => {
           Offer
         </h2>
         <p className='mt-4 info-text'>
-          Embark on a shopping journey that redefines your experience with
-          unbeatable deals. From premier selections to incredible savings, we
-          offer unparalleled value that sets us apart.
+          Mọi đơn hàng đầu tiên của bạn đặt tại website này đều được giảm 10%. 
         </p>
         <p className='mt-6 info-text'>
-          Navigate a realm of possibilities designed to fulfill your unique
-          desires, surpassing the loftiest expectations. Your journey with us is
-          nothing short of exceptional.
+          Norvi Express offer dịch vụ vẫn chuyển miễn phí toàn quốc trong tháng 8 năm 2024. Hãy đặt hàng ngay với chúng tôi nhé!
         </p>
         <div className='mt-11 flex flex-wrap gap-4'>
           <Button label='Shop now' iconURL={arrowRight} />

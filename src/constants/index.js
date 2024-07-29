@@ -24,31 +24,31 @@ export const shoes = [
 ];
 
 export const statistics = [
-    { value: '1k+', label: 'Brands' },
-    { value: '500+', label: 'Shops' },
-    { value: '250k+', label: 'Customers' },
+    { value: '100%', label: 'Cá tuyết Bắc Cực' },
+    { value: '170 năm', label: 'phát triển' },
+    { value: 'Giàu Omega-3', label: '5 ml đáp ứng nhu cầu Omega-3 hàng ngày' },
 ];
 
 export const products = [
     {
         imgURL: shoe4,
-        name: "Nike Air Jordan-01",
-        price: "$200.20",
+        name: "Biopharma Trippel Omega-3 Barn",
+        price: "$20.20",
     },
     {
         imgURL: shoe5,
-        name: "Nike Air Jordan-10",
-        price: "$210.20",
+        name: "VitaYummy Collagen Cherry",
+        price: "$20.20",
     },
     {
         imgURL: shoe6,
-        name: "Nike Air Jordan-100",
-        price: "$220.20",
+        name: "Vitaminbjørner®",
+        price: "$20.20",
     },
     {
         imgURL: shoe7,
-        name: "Nike Air Jordan-001",
-        price: "$230.20",
+        name: "Möller's Trankapsler",
+        price: "$20.20",
     },
 ];
 
@@ -56,17 +56,17 @@ export const services = [
     {
         imgURL: truckFast,
         label: "Free shipping",
-        subtext: "Enjoy seamless shopping with our complimentary shipping service."
+        subtext: "Miễn phí ship toàn quốc trong tháng 8 năm 2024"
     },
     {
         imgURL: shieldTick,
-        label: "Secure Payment",
-        subtext: "Experience worry-free transactions with our secure payment options."
+        label: "Chính Hãng",
+        subtext: "Mọi sản phẩm đều được đặt hàng trực tiếp tại Nauy và có bill đầy đủ"
     },
     {
         imgURL: support,
-        label: "Love to help you",
-        subtext: "Our dedicated team is here to assist you every step of the way."
+        label: "Luôn đồng hành cùng bạn",
+        subtext: "Chúng tôi luôn lắng nghe và thấu hiểu mọi nhu cầu của khách hàng, mang đến trải nghiệm mua sắm tốt nhất và phù hợp nhất với từng cá nhân."
     },
 ];
 
