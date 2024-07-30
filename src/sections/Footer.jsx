@@ -17,8 +17,7 @@ const Footer = () => {
             />
           </a>
           <p className='mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm'>
-            Get shoes ready for the new term at your nearest Nike store. Find
-            Your perfect Size In Store. Get Rewards
+          NorVi Express - Mang Chất Lượng Dầu Cá Na Uy Đến Từng Gia Đình Việt
           </p>
           <div className='flex items-center gap-5 mt-8'>
             {socialMedia.map((icon) => (
@@ -32,7 +31,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className='flex flex-1 justify-between lg:gap-10 gap-20 flex-wrap'>
+        <div className='flex flex-1 justify-center lg:gap-60 gap-10 flex-wrap'>
           {footerLinks.map((section) => (
             <div key={section.title}>
               <h4 className='font-montserrat text-2xl leading-normal font-medium mb-6 text-white'>

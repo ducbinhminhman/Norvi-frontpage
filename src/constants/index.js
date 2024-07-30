@@ -2,10 +2,10 @@ import { facebook, instagram, shieldTick, support, truckFast, twitter } from "..
 import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
 
 export const navLinks = [
-    { href: "#home", label: "Home" },
-    { href: "#about-us", label: "About Us" },
-    { href: "#products", label: "Products" },
-    { href: "#contact-us", label: "Contact Us" },
+    { href: "#home", label: "Trang chủ" },
+    { href: "#about-us", label: "Về chúng tôi" },
+    { href: "#products", label: "Sản phẩm" },
+    { href: "#contact-us", label: "Liên hệ " },
 ];
 
 export const shoes = [
@@ -32,7 +32,7 @@ export const statistics = [
 export const products = [
     {
         imgURL: shoe4,
-        name: "Biopharma Trippel Omega-3 Barn",
+        name: "Biopharma Trippel Omega-3",
         price: "$20.20",
     },
     {
@@ -73,46 +73,35 @@ export const services = [
 export const reviews = [
     {
         imgURL: customer1,
-        customerName: 'Morich Brown',
+        customerName: 'Giang Nguyễn',
         rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
+        feedback: "Dầu cá nhà Norvi rất chất lượng, cháu mình từ hồi sử dụng thấy da dẻ mịn màng, đáng yêu lắm luôn."
     },
     {
         imgURL: customer2,
-        customerName: 'Lota Mongeskar',
+        customerName: 'Linh Chấy',
         rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+        feedback: "Sáng nào mình cũng bổ sung một viên dầu cá Moller cho một ngày tràn đầy năng lượng, cám ơn shop đã mang một sản phẩm uy tín về Việt Nam nhé!"
     }
 ];
 
 
 export const footerLinks = [
     {
-        title: "Products",
+        title: "Trợ giúp",
         links: [
-            { name: "Air Force 1", link: "/" },
-            { name: "Air Max 1", link: "/" },
-            { name: "Air Jordan 1", link: "/" },
-            { name: "Air Force 2", link: "/" },
-            { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
-        ],
-    },
-    {
-        title: "Help",
-        links: [
-            { name: "About us", link: "/" },
+            { name: "Về chúng tôi", link: "/" },
             { name: "FAQs", link: "/" },
-            { name: "How it works", link: "/" },
-            { name: "Privacy policy", link: "/" },
-            { name: "Payment policy", link: "/" },
+            { name: "Hướng dẫn đặt hàng", link: "/" },
+            { name: "Chính sách bảo mật", link: "/" },
+            { name: "Chính sách thanh toán", link: "/" },
         ],
     },
     {
-        title: "Get in touch",
+        title: "Liên hệ",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "huynhhuynh123@gmail.com", link: "mailto:huynhhuynh123@gmail.com" },
+            { name: "(+84)933664968", link: "tel:+84933664968" },
         ],
     },
 ];

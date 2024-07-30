@@ -8,7 +8,7 @@ const SuperQuality = () => {
       className='flex justify-between items-center max-lg:flex-col gap-10 w-full max-container'
     >
       <div className='flex flex-1 flex-col'>
-        <h2 className='font-palanquin capitalize text-4xl lg:max-w-lg font-bold'>
+        <h2 className='font-roboto capitalize text-4xl lg:max-w-lg font-bold'>
         NorVi Express Mang
           <span className='text-coral-red'> Chất Lượng </span>
           <span className='text-coral-red'>Dầu Cá Na Uy </span> Đến 
@@ -23,7 +23,7 @@ const SuperQuality = () => {
         Liên hệ với chúng tôi qua tin nhắn hoặc số điện thoại Zalo: 0933664968 để đặt hàng và nhận thêm thông tin chi tiết.
         </p>
         <div className='mt-11'>
-          <Button label='View details' />
+          <Button label='Xem thêm' />
         </div>
       </div>
 
