@@ -31,9 +31,9 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className='flex flex-1 justify-center lg:gap-60 gap-10 flex-wrap'>
+        <div className='flex flex-col md:flex-row flex-1 justify-center lg:gap-60 gap-10 items-start md:items-stretch'>
           {footerLinks.map((section) => (
-            <div key={section.title}>
+            <div key={section.title} className='w-full md:w-auto'>
               <h4 className='font-montserrat text-2xl leading-normal font-medium mb-6 text-white'>
                 {section.title}
               </h4>
