@@ -20,8 +20,8 @@ To run this project locally:
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/adrianhajdin/nike_landing_page.git
-    cd nike_landing_page
+    git clone https://github.com/ducbinhminhman/Norvi-frontpage.git
+    cd Norvi-frontpage
     ```
 
 2. **Install dependencies**
