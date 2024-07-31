@@ -14,7 +14,7 @@ const Hero = () => {
       className='w-full flex xl:flex-row flex-col justify-center min-h-screen gap-10 max-container'>
       <div className='relative xl:w-2/5 flex flex-col justify-center items-start w-full  max-xl:padding-x pt-28'>
 
-        <h1 className='mt-10 font-roboto text-4xl max-sm:text-[72px] max-sm:leading-[82px] font-bold'>
+        <h1 className='mt-10 font-roboto text-3xl max-sm:text-[64px] max-sm:leading-[64px] font-bold'>
           <span className='xl:bg-white xl:whitespace-nowrap z-10 pr-10'>
           Chăm sóc sức khỏe gia đình bạn cùng
           </span>
@@ -32,7 +32,7 @@ const Hero = () => {
         <div className='flex justify-start items-start flex-wrap w-full mt-20 gap-16'>
           {statistics.map((stat, index) => (
             <div key={index}>
-              <p className='text-4xl font-roboto font-bold'>{stat.value}</p>
+              <p className='text-2xl font-roboto font-bold'>{stat.value}</p>
               <p className='leading-7 font-roboto text-slate-gray'>
                 {stat.label}
               </p>

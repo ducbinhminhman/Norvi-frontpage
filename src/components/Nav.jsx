@@ -22,6 +22,7 @@ const Nav = () => {
                 width={129}
                 height={29}
                 className='m-0 w-[129px] h-[100px]'
+                style={{ backgroundColor: 'transparent', display: 'block' }} // Ensure transparency
               />
             </a>
           </div>
